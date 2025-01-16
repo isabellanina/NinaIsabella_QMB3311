@@ -25,3 +25,5 @@ year = birthday + 25
 year
 year = year - 2004
 year
+
+# Be careful with names. This could cause confusion.
